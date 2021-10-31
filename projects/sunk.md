@@ -5,8 +5,8 @@ date: 2019-02-06
 categories:
 - photography
 - blue
-project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+project_bg_color: "#F5EFEF"
+project_fg_color: "#00080B"
 
 ---
 I bogen sætter Peder Meyhoff fokus på sin families komplicerede bane mellem det danske, det tyske og det neutrale. Og det er virkelig kompliceret, men for det meste er det gået stille og roligt – og de forskellige dele af familien har uden problemer kunnet omgås. Det har også været nødvendigt, for mange af familiens ægteskaber er blandede, hvor den ene part har en dansk baggrund, og en anden en tysk.
