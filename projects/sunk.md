@@ -2,9 +2,7 @@
 thumbnail: "/uploads/forside-alene-dansk-og-tysk.jpg"
 title: En sønderjysk familie mellem dansk og tysk
 date: 2019-02-06
-categories:
-- photography
-- blue
+categories: []
 project_bg_color: "#F5EFEF"
 project_fg_color: "#00080B"
 
